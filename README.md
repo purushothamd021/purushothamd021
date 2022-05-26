@@ -5,7 +5,7 @@
                                                             #PURUBOI_SINCE_1998
                                                    "https://replit.com/@Purushotham-D"
 
-![alt text](https://github.com/Puruboi/Puruboi/blob/main/AppBreweryWallpaper.jpg)
+![alt text](https://github.com/Puruboi/Puruboi/blob/main/cover-image.png)
 
 ### My Profile Summary...
 
