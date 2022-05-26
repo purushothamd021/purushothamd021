@@ -5,7 +5,7 @@
                                                             #PURUBOI_SINCE_1998
                                                    "https://replit.com/@Purushotham-D"
 
-![alt text](https://github.com/Purushotham-D/Purushotham-D/blob/main/AppBreweryWallpaper.jpg)
+![alt text](https://github.com/Puruboi/Puruboi/blob/main/AppBreweryWallpaper.jpg)
 
 ### My Profile Summary...
 
@@ -27,13 +27,12 @@
 ### My Latest ProJect 🌱
 <!-- Latest ProJect-LIST:START -->
 - [Basic_Programming](https://github.com/Purushotham-D/Basic_Programming)
-- [Interview-Challenges](https://github.com/Purushotham-D/Interview-Challenges)
+
   
 <!--Latest ProJect-LIST:END -
 
-[twitter]: https://twitter.com/Purusho16531070
-[Hashnode]: https://hashnode.com/@Puruboi
-[linkedin]: https://www.linkedin.com/in/purushotham-d-1792a8194/
-[instagram]: https://www.instagram.com/focus.visualisation_analysis/
-
+[twitter]: 
+[Hashnode]: 
+[linkedin]: 
+[instagram]: 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring and sharing some of the repositories!</h3>
