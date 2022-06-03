@@ -12,9 +12,6 @@
 * Assistant System Engineer At TCS
 * My primary coding language: Python.
 * My Secondary Competency Java , SQL. 
-* Earned Bronze badge & 2 star at HackerRank in Python programming.
-* Earned Bronze badge & 2 star at HackerRank in 30 Days of Code.
-* Earned Bronze badge & 1 star at HackerRank in SQL.
 * Passionate for learning & exploring new Tech. Assist Python Training at Besant Technologies, Looking for opporunity to Work as a SDE in a fast growing Organisation. 
 * I am working on building my online presence.
 
@@ -26,13 +23,14 @@
 
 ### My Latest ProJect 🌱
 <!-- Latest ProJect-LIST:START -->
-- [Basic_Programming](https://github.com/Purushotham-D/Basic_Programming)
+- [Front Page overview](https://github.com/Puruboi/Puruboi)
+- [Web-Scrapping](https://github.com/Puruboi/Web-Scrapping-Project)  
+
 
   
 <!--Latest ProJect-LIST:END -
 
-[twitter]: 
-[Hashnode]: 
-[linkedin]: 
-[instagram]: 
+[twitter]: @Puruboi_1998
+[linkedin]: @Purushotham D
+[instagram]: @puruboi_
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring and sharing some of the repositories!</h3>
