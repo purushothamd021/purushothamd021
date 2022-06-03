@@ -24,8 +24,8 @@
 - [Web-Scrapping](https://github.com/Puruboi/Web-Scrapping-Project)  
 <!--Latest ProJect-LIST:END -->
 
-[twitter]: @Puruboi_1998  
-[linkedin]: @Purushotham D 
+[twitter]: [@Puruboi_1998] (https://twitter.com/Puruboi_1998)   
+[linkedin]: [@Purushotham D] (https://www.linkedin.com/in/purushotham-d-13093622b)  
 [instagram]: @puruboi_
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring and sharing some of the repositories!</h3>
