@@ -3,7 +3,7 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> its me Purushotham D
 
                                                             #PURUBOI_SINCE_1998
-                                                   "https://replit.com/@Purushotham-D"
+                                                   
 ![alt text](https://github.com/Puruboi/Puruboi/blob/main/cover-image.png)
 ### My Profile Summary...
 * Assistant System Engineer At TCS
@@ -24,7 +24,8 @@
 - [Web-Scrapping](https://github.com/Puruboi/Web-Scrapping-Project)  
 <!--Latest ProJect-LIST:END -->
 
-[twitter]: @Puruboi_1998
-[linkedin]: @Purushotham D
+[twitter]: @Puruboi_1998  
+[linkedin]: @Purushotham D 
 [instagram]: @puruboi_
+
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring and sharing some of the repositories!</h3>
