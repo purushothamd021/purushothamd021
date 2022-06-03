@@ -26,7 +26,7 @@
 
   
 [linkedin]: [@Purushotham D] (https://www.linkedin.com/in/purushotham-d-13093622b)  
-[instagram]: @puruboi_
+[instagram]: @puruboi_     
 [twitter]: [@Puruboi_1998] (https://twitter.com/Puruboi_1998) 
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring and sharing some of the repositories!</h3>
