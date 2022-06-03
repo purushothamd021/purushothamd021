@@ -7,8 +7,8 @@
 ![alt text](https://github.com/Puruboi/Puruboi/blob/main/cover-image.png)
 ### My Profile Summary...
 * Assistant System Engineer At TCS
-* My primary coding language: Python.
-* Competencies Exploring :Python,AI,ML,DL,Java,SQL, 
+* Primary Competency Explored and Exploring : Python.
+* Other Competencies Exploring :AI,ML,DL,Java,SQL, 
 * Passionate for learning & exploring new Tech. Assist Python Training at Besant Technologies, Looking for opporunity to Work as a SDE in a fast growing Organisation. 
 * I am working on building my online presence.
 
