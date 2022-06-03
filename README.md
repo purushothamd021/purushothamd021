@@ -4,11 +4,8 @@
 
                                                             #PURUBOI_SINCE_1998
                                                    "https://replit.com/@Purushotham-D"
-
 ![alt text](https://github.com/Puruboi/Puruboi/blob/main/cover-image.png)
-
 ### My Profile Summary...
-
 * Assistant System Engineer At TCS
 * My primary coding language: Python.
 * Competencies Exploring :Python,AI,ML,DL,Java,SQL, 
@@ -25,10 +22,7 @@
 <!-- Latest ProJect-LIST:START -->
 - [Front Page overview](https://github.com/Puruboi/Puruboi)
 - [Web-Scrapping](https://github.com/Puruboi/Web-Scrapping-Project)  
-
-
-  
-<!--Latest ProJect-LIST:END -
+<!--Latest ProJect-LIST:END -->
 
 [twitter]: @Puruboi_1998
 [linkedin]: @Purushotham D
