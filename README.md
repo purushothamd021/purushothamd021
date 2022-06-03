@@ -11,7 +11,7 @@
 
 * Assistant System Engineer At TCS
 * My primary coding language: Python.
-* My Secondary Competency Java , SQL. 
+* Competencies Exploring :Python,AI,ML,DL,Java,SQL, 
 * Passionate for learning & exploring new Tech. Assist Python Training at Besant Technologies, Looking for opporunity to Work as a SDE in a fast growing Organisation. 
 * I am working on building my online presence.
 
